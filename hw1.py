@@ -1,3 +1,4 @@
+#范權榮 111210557
 h_step = 0.00001
 
 def derivative(func, val):
