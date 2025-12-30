@@ -1,6 +1,7 @@
 # Coding and Maths (CM) 
 **Student:** 范權榮 111210557 資工系三年級
-**Course:** Computational Methods 2025
+
+**Course:** Coding and Maths 2025
 
 ## Coursework Summary
 
