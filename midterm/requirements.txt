@@ -1,0 +1,3 @@
+# NUMERIX: Computational Methods Suite Requirements
+numpy>=1.23.0
+matplotlib>=3.5.0
