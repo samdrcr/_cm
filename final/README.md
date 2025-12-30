@@ -1,4 +1,4 @@
-# Computational Methods (CM) Portfolio
+# Coding and Maths (CM) 
 **Student:** [Your Name]
 **Course:** Computational Methods 2025
 
